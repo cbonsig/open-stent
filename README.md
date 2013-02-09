@@ -10,7 +10,7 @@ This project is intended to bring the collaborative principles of open source to
 
 Components of This Project
 ==========================
-This project will be seeded with a set of related resources, as explained below. The initial release of each component will be posted as it becomes available. Craig first presented the project at the Open Source Stent Calculator project at SMST 2010, and it is also discussed at NitinolUniversity.com The components of the project include:
+This project will be seeded with a set of related resources, as explained below. The initial release of each component will be posted as it becomes available. Craig first presented the project at the Open Source Stent Calculator project at SMST 2010, and it is also discussed at http://www.nitinol.com/nitinol-university/ The components of the project include:
 
 Open Stent Design: open-stent.pdf a draft manuscript that explains the project, provides step-by-step guidance for building a generic stent using Solidworks, and documents all of the formulas used in the Stent Calculator Worksheet.
 
@@ -24,4 +24,4 @@ Open Source Stent FEA: (planned) Abaqus code for analysis of the open source ste
 
 Licensing
 =========
-This work is licensed under the Creative Commons Attribution-Share Alike 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licenses/by- sa/3.0/us/ or send a letter to Creative Commons, 171 Second Street, Suite 300, San Fran- cisco, California, 94105, USA.
+This work is licensed under the Creative Commons Attribution-Share Alike 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/us/ or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
