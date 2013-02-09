@@ -24,4 +24,4 @@ Open Source Stent FEA: (planned) Abaqus code for analysis of the open source ste
 
 Licensing
 =========
-The resources provided as part of this project are contributed to the community under copyleft licenses. This means that the materials may be freely redistributed with attribution, and requires any derivative works to carry the same freedoms as the original license. Under these principles, the entire community benefits from its collective wisdom and creativity. We look forward to your contributions!
+This work is licensed under the Creative Commons Attribution-Share Alike 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licenses/by- sa/3.0/us/ or send a letter to Creative Commons, 171 Second Street, Suite 300, San Fran- cisco, California, 94105, USA.
