@@ -8,6 +8,10 @@ Goals and Motivation of This Project
 
 This project is intended to bring the collaborative principles of open source to the typically closed and proprietary world of medical device development. NDC has a long history leading development of nitinol stents and similar components, and has also been a leading publisher and educator in the field. Contributing to the open source and creative commons movements is a natural evolution of our commitment to nitinol education. It is our hope that providing these tools and resources in an unlimited way to the community of medical device developers, as well as academic researchers, reviewers, and others, we will inspire a new generation of designers with ideas that will advance the state of the art, and the practice of medicine.
 
+Open Stent Design / Print Edition
+=================================
+You can buy a nicely bound full color printed version of the Open Stent Design manuscript for about $20 from Amazon. http://www.amazon.com/Open-Stent-Design-expanding-cardiovascular/dp/1481080695
+
 Components of This Project
 ==========================
 This project will be seeded with a set of related resources, as explained below. The initial release of each component will be posted as it becomes available. Craig first presented the project at the Open Source Stent Calculator project at SMST 2010, and it is also discussed at http://www.nitinol.com/nitinol-university/ The components of the project include:
