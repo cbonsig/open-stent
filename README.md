@@ -8,6 +8,13 @@ Goals and Motivation of This Project
 
 This project is intended to bring the collaborative principles of open source to the typically closed and proprietary world of medical device development. NDC has a long history leading development of nitinol stents and similar components, and has also been a leading publisher and educator in the field. Contributing to the open source and creative commons movements is a natural evolution of our commitment to nitinol education. It is our hope that providing these tools and resources in an unlimited way to the community of medical device developers, as well as academic researchers, reviewers, and others, we will inspire a new generation of designers with ideas that will advance the state of the art, and the practice of medicine.
 
+2021 Update
+===========
+
+The 2010 version of the Stent Calculator worksheet more complicated than necessary for many applications. An simplified revision, created in 2021, implements the most important features in a Jupyter Notebook. The [Stent Calculator 2021](https://github.com/cbonsig/open-stent/blob/ec8cb49e3697c48953775f79b527edf30b9796b0/stent_calculator_2021/stent_calculator_2021.ipynb) notebook is good starting place. If you don't have Jupyter installed on your own computer, you can access an interactive version on [Google Colab](https://colab.research.google.com/github/cbonsig/open-stent/blob/93954a52079aaf4d3f74319180989ae90f2ed21c/stent_calculator_2021/stent_calculator_2021.ipynb).
+
+The formulas derived in the Jupyter Notebook are implemented in a [Google Sheet](https://docs.google.com/spreadsheets/d/1WNo-heeC47Z9YqaJjs4vi74C_uU2YyMQA8cRFJYoxgw/edit#gid=0). This is a good way to experiment with different design alternatives. Use "File > Make a Copy" to edit in your browser, or "File > Download" to edit on your own computer.
+
 Open Stent Design / Print Edition
 =================================
 You can buy a nicely bound full color printed version of the Open Stent Design manuscript for about $20 from Amazon. http://www.amazon.com/Open-Stent-Design-expanding-cardiovascular/dp/1481080695
