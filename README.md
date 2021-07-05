@@ -11,7 +11,7 @@ This project is intended to bring the collaborative principles of open source to
 2021 Update
 ===========
 
-The 2010 version of the Stent Calculator worksheet more complicated than necessary for many applications. An simplified revision, created in 2021, implements the most important features in a Jupyter Notebook. The [Stent Calculator 2021](https://github.com/cbonsig/open-stent/blob/ec8cb49e3697c48953775f79b527edf30b9796b0/stent_calculator_2021/stent_calculator_2021.ipynb) notebook is good starting place. If you don't have Jupyter installed on your own computer, you can access an interactive version on [Google Colab](https://colab.research.google.com/github/cbonsig/open-stent/blob/93954a52079aaf4d3f74319180989ae90f2ed21c/stent_calculator_2021/stent_calculator_2021.ipynb).
+The 2010 version of the Stent Calculator worksheet more complicated than necessary for many applications. An simplified revision, created in 2021, implements the most important features in a Jupyter Notebook. The [Stent Calculator 2021](https://github.com/cbonsig/open-stent/blob/master/stent_calculator_2021/stent_calculator_2021.ipynb) notebook is good starting place. If you don't have Jupyter installed on your own computer, you can access an interactive version on [Google Colab](https://colab.research.google.com/github/cbonsig/open-stent/blob/master/stent_calculator_2021/stent_calculator_2021.ipynb).
 
 The formulas derived in the Jupyter Notebook are implemented in a [Google Sheet](https://docs.google.com/spreadsheets/d/1WNo-heeC47Z9YqaJjs4vi74C_uU2YyMQA8cRFJYoxgw/edit#gid=0). This is a good way to experiment with different design alternatives. Use "File > Make a Copy" to edit in your browser, or "File > Download" to edit on your own computer.
 
